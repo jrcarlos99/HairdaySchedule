@@ -1,5 +1,7 @@
 # HairdaySchedule
 
+![Previa do Hairday](./src/assets/tela_hairday.png)
+
 Uma **aplicação web de agendamento para corte de cabelo**, que permite ao usuário selecionar data e horário, informar o nome do cliente e visualizar ou cancelar agendamentos divididos em períodos do dia (manhã, tarde e noite).
 
 ---
